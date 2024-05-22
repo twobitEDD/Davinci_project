@@ -9,7 +9,7 @@
     "start": "nodemon index.js"
   },
   "engines": {
-    "node": "20.x"
+    "node": "14.16.0"
   },
   "dependencies": {
     "@harmony-js/core": "^0.1.57",
